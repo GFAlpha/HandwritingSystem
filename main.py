@@ -160,7 +160,7 @@ def predict_number_with_confidence_and_user(image_path):
 
 # ===== 主菜单 =====
 def main_menu():
-    print("\n===== 手写数字识别系统 v6.2 =====")
+    print("\n===== 手写数字识别系统 v6.3 =====")
     print("1. 训练数字识别模型")
     print("2. 训练用户识别模型")
     print("3. 预测数字及用户")
